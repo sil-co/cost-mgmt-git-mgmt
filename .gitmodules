@@ -1,0 +1,9 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sil-co/cost-mgmt-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sil-co/cost-mgmt-backend.git
+[submodule "database"]
+	path = database
+	url = https://github.com/sil-co/cost-mgmt-database.git
