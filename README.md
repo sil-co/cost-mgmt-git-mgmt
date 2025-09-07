@@ -12,8 +12,9 @@
 ## Preview
 [Preview(Youtube)](https://youtu.be/MAje1Xx7u4U?si=fnvqBZUUvIVdSz8l)
 
-## Demo
+## Demo site
 [Demo site(https://cm.shelner.com)](https://cm.shelner.com)
-<br>
+
+## Demo Image
 ![DemoImg](./resources/demo.png)
 
