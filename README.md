@@ -3,9 +3,13 @@
 This is cost management app.
 Manage your cost, expenses, and fee for food, transportation, entertainment, etc.
 
-## Demo
+## Preview
+https://youtu.be/MAje1Xx7u4U?si=fnvqBZUUvIVdSz8l
 [Preview(Youtube)](https://youtu.be/MAje1Xx7u4U?si=fnvqBZUUvIVdSz8l)
+
+## Demo
 [Demo site](https://cm.shelner.com)
+![DemoImg](./resources/demo.png)
 
 ## Tech stack
 Tech stack
